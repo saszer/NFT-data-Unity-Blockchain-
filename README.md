@@ -6,4 +6,4 @@ Showcases 2 ways:
 2. To read locally from csv given token id
 
 
-[!alt text] (https://github.com/saszer/NFT-data-Unity-Blockchain-/blob/main/nft%20blockchain%20unity%20game%20data%20viz.gif)
+[!alt text](https://github.com/saszer/NFT-data-Unity-Blockchain-/blob/main/nft%20blockchain%20unity%20game%20data%20viz.gif)
