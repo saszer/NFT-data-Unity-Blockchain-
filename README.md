@@ -2,7 +2,9 @@
 Rough sketch of prototype showing how to fetch all traits, images etc in Unity Game Engine for Data Viz/ Games etc Possibilities are through the roof!
 
 Showcases 2 ways: 
+
 1 . To Fetch Data from OpenSea api https://docs.opensea.io/reference/api-overview 
+
 2. To read locally from csv given token id
 
 
